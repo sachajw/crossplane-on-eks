@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 sachajw/crossplane-on-eks is built on the following main stack:
+
 - [Golang](http://golang.org/) – Languages
 - [Terraform](https://www.terraform.io/) – Server Configuration and Automation
 - [AWS Lambda](http://aws.amazon.com/lambda) – Serverless / Task Processing
@@ -9,11 +10,13 @@ sachajw/crossplane-on-eks is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 sachajw/crossplane-on-eks is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png' alt='Terraform'/> [Terraform](https://www.terraform.io/) – Server Configuration and Automation
 - <img width='25' height='25' src='https://img.stackshare.io/service/1909/aws-lambda.png' alt='AWS Lambda'/> [AWS Lambda](http://aws.amazon.com/lambda) – Serverless / Task Processing
@@ -21,14 +24,15 @@ sachajw/crossplane-on-eks is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [sachajw/crossplane-on-eks](https://github.com/sachajw/crossplane-on-eks)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|11/16/23 <br/>Report generated|
+|7<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
